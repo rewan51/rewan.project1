@@ -1,0 +1,89 @@
+html,body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+margin-top: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding:0px;
+    margin-top: 0px;
+}
+
+nav {
+    background-color:rebeccapurple;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    margin-top: 0;
+    
+}
+
+nav a {
+    color: #fff;
+    text-decoration:none;
+    margin: 0px;
+}
+
+.book-review {
+    max-width: 1000px;
+    width: 150%;
+    margin:0 10px auto;
+    background-color: #fff;
+    border-radius: 5px;
+    float:left;
+}
+
+.book-review img {
+    width: 30%;
+    float: right;
+    margin-left: 50px;
+}
+
+.book-info {
+    padding: 10px;
+flex: 6;
+}
+
+h2 {
+    color: rebeccapurple;
+}
+
+p {
+    color: #666;
+}
+
+body {
+    color: #333;
+}
+
+a {
+    color:rebeccapurple;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.book-info {
+    background-color: #f2f2f2;
+
+}
+table {
+    border-collapse: collapse;
+    
+    width: 100%;
+    background-color: rebeccapurple;
+}
+
+td {
+    border: 1px rebeccapurple;
+    
+    padding: 1px;
+    text-align: center;
+}
